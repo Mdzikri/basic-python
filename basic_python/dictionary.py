@@ -13,3 +13,6 @@ for customer in daftar_customer:
     print("====================")
     for key,value in customer.items():
         print(f"{key}:{value}")
+
+# for number in customer:
+#     print (f"ini adalah daftar customer{daftar_customer}")
